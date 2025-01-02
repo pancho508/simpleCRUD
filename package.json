@@ -1,0 +1,15 @@
+{
+  "name": "simplecrud",
+  "version": "1.0.0",
+  "description": "a simple crud app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./Backend/server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
